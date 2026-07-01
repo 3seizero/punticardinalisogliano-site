@@ -28,7 +28,7 @@ export const project = {
     logosHeader: '/brand/PCFW_Sogliano-logos-header.png',
     logoHeader: '/brand/logo.png',
     hero: '', // hero su verde pieno (foto hero dedicata: in attesa da Carlo)
-    logosFooter: '/brand/PCFW_Sogliano-logos-footer.png',
+    logosFooter: '', // striscia loghi footer rimossa (richiesta Carlo)
     favicon: '/favicon.svg',
   },
 
