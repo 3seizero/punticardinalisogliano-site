@@ -29,7 +29,8 @@ export const project = {
     logoHeader: '/brand/logo.png',
     hero: '', // hero su verde pieno (foto hero dedicata: in attesa da Carlo)
     logosFooter: '', // striscia loghi footer rimossa (richiesta Carlo)
-    favicon: '/favicon.svg',
+    favicon: '/favicon-96x96.png',
+    icon: '/web-app-manifest-192x192.png',
   },
 
   form: {
