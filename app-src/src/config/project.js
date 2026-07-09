@@ -4,6 +4,10 @@
 export const project = {
   slug: 'sogliano',
   nomeProgetto: 'Futuro in Corso!',
+  // Nome completo con riferimento alla webapp: usato come <title>, mittente
+  // delle email e negli oggetti (richiesta Carlo: sempre riconoscibile la provenienza)
+  nomeCompleto: 'Futuro in Corso! - Punti Cardinali for Work | Sogliano',
+  riferimento: 'Punti Cardinali for Work | Sogliano',
   sottotitolo: 'Orientamento, Competenze e Opportunità per il Futuro',
   comune: 'Sogliano Cavour',
   cup: 'B39E25000240002',
