@@ -150,7 +150,7 @@ export const content = {
 
   orientationLab: {
     titolo: "30 LABORATORI PER ORIENTARSI, CRESCERE E COSTRUIRE IL PROPRIO FUTURO",
-    intro: "",
+    intro: "Gli Orientation Lab sono percorsi esperienziali della **durata di 6 ore** ciascuno: metodologie attive e partecipative per scoprire le proprie competenze e conoscere le opportunità offerte dal territorio.",
     aree: [
       {
         titolo: "AREA 1 – GREEN ECONOMY E SVILUPPO SOSTENIBILE",
@@ -203,6 +203,13 @@ export const content = {
   jobDay: {
     titolo: "Tre percorsi per scoprire il proprio futuro",
     intro: "",
+    // Prossimo appuntamento: alimenta il blocco "CALENDARIO" e il campo "Quando" del form
+    appuntamento: {
+      data: "17 luglio 2026",
+      orario: "dalle 18:00 alle 22:00",
+      luogo: "Parco Falcone e Borsellino",
+      citta: "Sogliano Cavour",
+    },
     percorsi: [
       { nome: "Suoni e Mestieri", icon: "tool", desc: "Tradizione, cultura e nuove opportunità professionali." },
       { nome: "Terra e Talenti", icon: "leaf", desc: "Green economy, agricoltura sostenibile e sviluppo locale." },
@@ -229,6 +236,13 @@ export const content = {
   mareASinistra: {
     titolo: "Sogliano Cavour si racconta oltre i propri confini",
     intro: "Puglia Attrattiva #mareAsinistra è la linea di intervento dedicata alla promozione delle eccellenze culturali, sociali, produttive e imprenditoriali del territorio.",
+    // Prossimo appuntamento: alimenta il blocco "CALENDARIO" e il campo "Quando" del form
+    appuntamento: {
+      data: "20 giugno 2026",
+      orario: "dalle 15:00 alle 21:00",
+      luogo: "Expo Salento",
+      citta: "Carmiano",
+    },
     obiettivi: [],
     ambiti: [
       "Cultura e tradizioni locali",
