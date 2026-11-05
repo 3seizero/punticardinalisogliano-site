@@ -236,6 +236,12 @@ export const content = {
   mareASinistra: {
     titolo: "Sogliano Cavour si racconta oltre i propri confini",
     intro: "Puglia Attrattiva #mareAsinistra è la linea di intervento dedicata alla promozione delle eccellenze culturali, sociali, produttive e imprenditoriali del territorio.",
+    // Blocco download guida (pulsanti ITA/ENG); destinazione del QR code
+    guida: {
+      titolo: "Scarica la Guida breve a un borgo del Salento",
+      ita: "/guide/guida-breve-sogliano-ITA.pdf",
+      eng: "/guide/guida-breve-sogliano-ENG.pdf",
+    },
     // Prossimo appuntamento: alimenta il blocco "CALENDARIO" e il campo "Quando" del form
     appuntamento: {
       data: "20 giugno 2026",
